@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">剪贴板白名单</string>
+    <string name="xposed_description">在 Android 10 以上允许应用在后台访问剪贴板。</string>
+    <string name="service_not_found">未找到 Xposed 服务</string>
+    <string name="service_not_found_description">系统进程中未发现 Xposed 服务，请检查该模块是否启用。</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="unknown_error_description">请收集 logcat 并发送给开发者。</string>
+    <string name="notice">通知</string>
+    <string name="system_apps">系统应用</string>
+    <string name="application_clipboard_detect">应用程序无法检测到剪贴板在后台是否可访问，并且它们可能仍然认为剪贴板不可用。</string>
+
+</resources>

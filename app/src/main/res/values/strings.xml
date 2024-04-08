@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clipboard Whitelist</string>
+    <string name="xposed_description">Allowing apps to access the clipboard in the background on Android 10+.</string>
+    <string name="service_not_found">Xposed service not Found</string>
+    <string name="service_not_found_description">No Xposed service found in the system process, please check that the module is enabled.</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="unknown_error_description">Please collect the logcat and send it to the developer.</string>
+    <string name="notice">Notice</string>
+    <string name="system_apps">System Apps</string>
+    <string name="application_clipboard_detect">Applications cannot detect that the clipboard is accessible in the background and they may still assume that clipboard is unavailable.</string>
+</resources>
